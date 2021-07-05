@@ -15,8 +15,15 @@ section {
   width: 50%;
   padding: 5%;
 }
+.half-width2 {
+  width: 50%;
+  padding: 5%;
+}
 .half-width img {
   width: 100%;
+}
+.half-width2 img {
+  width: 80%;
 }
 .button {
   text-decoration: none;
@@ -29,4 +36,9 @@ section {
 .banner {
   background-image: url(images/top-banner.png);
   background-repeat: no-repeat;
+}
+.banner2 {
+  background-image: url(images/banner2.png);
+  background-repeat: no-repeat;
+  background-position: rightgit;
 }
